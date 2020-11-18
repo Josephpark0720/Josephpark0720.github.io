@@ -3,7 +3,7 @@
   /* Defining each sectino background and styles
   * --------------------------------------- */
   #section0{
-    background-image: url(/assets/img/big/universe1.jpg);
+    background-image: url(https://media-exp1.licdn.com/dms/image/C511BAQHKQDhTT_1Csg/company-background_10000/0?e=2159024400&v=beta&t=tGI0g2X1r0akXFNDYk5neBT7R53cQsj6E1EHIqJfxfs);
     padding: 6% 0 0 0;
   }
 
@@ -36,7 +36,7 @@
       /* Defining each section background and styles on portrait orientation
       * --------------------------------------- */
       #section0{
-        background-image: url(/assets/img/tablet/universe1.jpg);
+        background-image: url(https://media-exp1.licdn.com/dms/image/C511BAQHKQDhTT_1Csg/company-background_10000/0?e=2159024400&v=beta&t=tGI0g2X1r0akXFNDYk5neBT7R53cQsj6E1EHIqJfxfs);
         padding: 6% 0 0 0;
       }
 
